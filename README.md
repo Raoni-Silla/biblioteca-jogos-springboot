@@ -1,6 +1,6 @@
 # 🚀 Atividade Prática – Biblioteca de Jogos Pessoais
 
-Projeto acadêmico da disciplina de [NOME DA DISCIPLINA] para o desenvolvimento de uma aplicação Web Full Stack (Spring Boot + Thymeleaf) que funciona como uma biblioteca pessoal de jogos.
+Projeto acadêmico da disciplina de linguagem de programação para o desenvolvimento de uma aplicação Web Full Stack (Spring Boot + Thymeleaf) que funciona como uma biblioteca pessoal de jogos.
 
 A aplicação permite o **CRUD (Cadastrar, Listar, Editar e Remover)** completo para as entidades **Jogo** e **Categoria**, com persistência de dados em um banco PostgreSQL.
 
